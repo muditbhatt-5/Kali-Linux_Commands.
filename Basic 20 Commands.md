@@ -1,5 +1,6 @@
+1. ifconfig:
 ```
-    1. ifconfig
+    ifconfig
 ```
 <pre>
 Used to configure or display network interfaces.
