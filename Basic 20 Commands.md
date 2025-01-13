@@ -12,5 +12,8 @@ Used to configure or display network interfaces.
 ```
     ls
 ```
+<pre>
 Lists files and directories in the current directory.
     ->Options: ls -l (detailed list), ls -a (shows hidden files).
+    
+</pre>
